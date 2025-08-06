@@ -58,11 +58,13 @@ form {
 }
 
 .container h1 {
+    
     font-size: 36px;
     margin: -10px 0;
 }
 
 .input-box {
+
     position: relative;
     margin: 20px 0;
 }
@@ -267,6 +269,17 @@ form {
     .container.active .toggle-panel.toggle-right {
         bottom: 0;
     }
+    .register form .input-box{
+        margin: 10px 0;
+        
+    }
+    .register{
+        top: -100px
+    }
+    .register h1{
+        margin-bottom: 10px;
+    }
+    
 }
 
 @media screen and (max-width: 400px) {

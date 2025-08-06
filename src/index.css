@@ -274,10 +274,11 @@ form {
         
     }
     .register{
-        top: -100px
+        /* top: -100px */
+        padding: 10px 20px;
     }
     .register h1{
-        margin-bottom: 10px;
+        margin: 10px 0;
     }
     
 }
